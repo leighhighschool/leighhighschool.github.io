@@ -1,0 +1,13 @@
+# Leigh High School V2
+
+A modern toolkit for students with enhanced access and extra features.
+
+---
+
+## Features
+
+- **Canvas Edition** – Secured access to prevent leaks (More protection soon)
+- **about:blank Mode** – Anti-GoGuardian protection  
+- **Extra Games** – More coming soon
+
+---
