@@ -12,4 +12,4 @@ A modern toolkit for students with enhanced access and extra features.
 
 ---
 
-Try it out **LIVE** on [THIS](https://leighhighschool.github.io) link.
+Try it out **LIVE** at leighhighschool.github.io - Make sure to use Canvas redirect
