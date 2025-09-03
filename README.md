@@ -11,3 +11,5 @@ A modern toolkit for students with enhanced access and extra features.
 - **Extra Games** – More coming soon
 
 ---
+
+Try it out **LIVE** on [THIS](https://leighhighschool.github.io) link.
